@@ -36,30 +36,33 @@ ORDER BY Transaction_Date ASC, City ASC;
 What is the month by month 
 revenue breakdown for the sales territory?
 */
-select sum(ss.Sale_Amount + os.SalesTotal) as TotalSales, sl.State
+select sum(ss.Sale_Amount + os.SalesTotal) as TotalSales, 
+	sl.City, 
+    sl.State,
+	date_format(ss.Transaction_Date, '20%y-%m') as Month
 from sample_sales.store_sales as ss
 join sample_sales.online_sales as os
 	on ss.id = os.id
 join sample_sales.store_list as sl
 	on ss.Store_ID = sl.Store_ID
 where ss.Store_ID between 731 and 739
-	and Transaction_Date between '2023-01-01' and '2023-01-31'
-	and sl.State = 'Maryland'
-group by sl.State;
+	and ss.Transaction_Date between '2022-01-01' and '2022-12-31'
+group by Month, sl.City, sl.State
+order by Month asc;
 
 /*
 Provide a comparison of total revenue for 
 the specific sales territory and the region it belongs to.
 */
-select sum(ss.Sale_Amount + os.SalesTotal) as TotalSales, sl.State
+select sum(ss.Sale_Amount + os.SalesTotal) as TotalSales, sl.City
 from sample_sales.store_sales as ss
 join sample_sales.online_sales as os
 	on ss.id = os.id
 join sample_sales.store_list as sl
 	on ss.Store_ID = sl.Store_ID
-where Transaction_Date between '2023-01-01' and '2023-01-31'
-group by sl.State
-Order by sl.State asc;
+where sl.State = 'Maryland'
+group by sl.City
+Order by TotalSales desc;
 
 /*
 What is the number of transactions per month and average 
@@ -67,7 +70,21 @@ transaction size by product category for the sales territory?
 */
 
 
+ 
+
 /*
 Can you provide a ranking of in-store sales performance by each store in the sales territory, or 
 a ranking of online sales performance by state within an online sales territory?
 */
+select 
+	sl.State, 
+	sl.City, 
+	sum(ss.Sale_Amount) as Total_Sales, 
+    date_format(Transaction_Date, '20%y,%m') as Month
+from sample_sales.store_list as sl
+join sample_sales.store_sales as ss
+on sl.Store_ID = ss.Store_ID
+where sl.State = 'Maryland'
+and Transaction_Date between '2025-01-01' and '2025-12-31'
+group by Month, sl.State, sl.City
+order by Total_Sales desc, Month asc;
