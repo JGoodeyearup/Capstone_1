@@ -1,109 +1,109 @@
-State,City,Total_Sales,Month
-Maryland,"North Harford",238325.74,"2025,12"
-Maryland,"North Harford",237115.14,"2025,10"
-Maryland,"North Harford",225976.77,"2025,09"
-Maryland,"North Harford",219445.27,"2025,07"
-Maryland,"North Harford",215089.45,"2025,11"
-Maryland,"North Harford",213510.59,"2025,08"
-Maryland,"North Harford",210401.13,"2025,03"
-Maryland,"North Harford",208118.92,"2025,01"
-Maryland,"North Harford",186234.72,"2025,02"
-Maryland,"North Harford",147520.16,"2025,05"
-Maryland,"North Harford",130274.01,"2025,06"
-Maryland,"North Harford",126652.23,"2025,04"
-Maryland,Germantown,31143.89,"2025,10"
-Maryland,Germantown,25924.28,"2025,12"
-Maryland,Germantown,24173.00,"2025,05"
-Maryland,Germantown,22817.05,"2025,08"
-Maryland,Germantown,17734.10,"2025,11"
-Maryland,Parkville,16615.41,"2025,02"
-Maryland,"Back River",16537.87,"2025,10"
-Maryland,"Queen Anne's County",15849.85,"2025,10"
-Maryland,Germantown,15607.20,"2025,04"
-Maryland,Germantown,15509.19,"2025,09"
-Maryland,"Queen Anne's County",15206.03,"2025,04"
-Maryland,Howard,14778.89,"2025,10"
-Maryland,Germantown,14521.05,"2025,06"
-Maryland,Baltimore,14409.16,"2025,07"
-Maryland,Germantown,14380.37,"2025,07"
-Maryland,Germantown,14310.72,"2025,01"
-Maryland,Ridgely,14090.13,"2025,03"
-Maryland,Parkville,13895.36,"2025,05"
-Maryland,Baltimore,13743.99,"2025,10"
-Maryland,Annapolis,13719.11,"2025,11"
-Maryland,"Back River",13435.10,"2025,08"
-Maryland,Annapolis,13379.82,"2025,08"
-Maryland,Parkville,13352.13,"2025,12"
-Maryland,"Back River",13144.34,"2025,06"
-Maryland,Parkville,12797.72,"2025,11"
-Maryland,Ridgely,12701.86,"2025,07"
-Maryland,Annapolis,12659.14,"2025,04"
-Maryland,Baltimore,12651.15,"2025,03"
-Maryland,Ridgely,12174.90,"2025,10"
-Maryland,Ridgely,12134.30,"2025,06"
-Maryland,Howard,12002.07,"2025,07"
-Maryland,Baltimore,11775.17,"2025,04"
-Maryland,Ridgely,11767.46,"2025,08"
-Maryland,Parkville,11740.57,"2025,10"
-Maryland,Baltimore,11553.58,"2025,11"
-Maryland,Ridgely,11507.25,"2025,11"
-Maryland,Germantown,11456.35,"2025,03"
-Maryland,Howard,11362.64,"2025,12"
-Maryland,"Back River",11077.38,"2025,03"
-Maryland,Baltimore,10921.93,"2025,08"
-Maryland,"Queen Anne's County",10910.78,"2025,03"
-Maryland,"Back River",10736.55,"2025,02"
-Maryland,"Queen Anne's County",10604.46,"2025,06"
-Maryland,Howard,10578.52,"2025,09"
-Maryland,"Back River",10376.86,"2025,09"
-Maryland,Annapolis,10349.72,"2025,07"
-Maryland,Howard,10222.34,"2025,01"
-Maryland,"Queen Anne's County",10183.72,"2025,08"
-Maryland,Annapolis,10175.96,"2025,06"
-Maryland,Baltimore,10113.27,"2025,09"
-Maryland,"Back River",10074.12,"2025,07"
-Maryland,Howard,9807.09,"2025,02"
-Maryland,Germantown,9728.68,"2025,02"
-Maryland,Parkville,9707.05,"2025,06"
-Maryland,"Queen Anne's County",9661.66,"2025,02"
-Maryland,Annapolis,9658.41,"2025,01"
-Maryland,Baltimore,9655.08,"2025,12"
-Maryland,Howard,9285.94,"2025,08"
-Maryland,Howard,9065.87,"2025,11"
-Maryland,Parkville,9040.06,"2025,07"
-Maryland,Howard,9037.51,"2025,05"
-Maryland,"Queen Anne's County",9034.47,"2025,12"
-Maryland,Baltimore,8980.34,"2025,06"
-Maryland,Parkville,8847.08,"2025,09"
-Maryland,Annapolis,8814.77,"2025,05"
-Maryland,Ridgely,8703.19,"2025,04"
-Maryland,Baltimore,8547.48,"2025,02"
-Maryland,Ridgely,8430.38,"2025,12"
-Maryland,Annapolis,8284.81,"2025,03"
-Maryland,Parkville,8266.31,"2025,03"
-Maryland,Baltimore,8262.18,"2025,01"
-Maryland,Annapolis,8257.17,"2025,12"
-Maryland,"Queen Anne's County",7924.53,"2025,07"
-Maryland,Annapolis,7795.03,"2025,09"
-Maryland,"Back River",7788.10,"2025,12"
-Maryland,Ridgely,7745.50,"2025,09"
-Maryland,"Back River",7571.58,"2025,05"
-Maryland,Howard,7442.06,"2025,06"
-Maryland,"Queen Anne's County",7362.57,"2025,09"
-Maryland,Parkville,7348.13,"2025,01"
-Maryland,Ridgely,7347.95,"2025,01"
-Maryland,"Queen Anne's County",7338.30,"2025,11"
-Maryland,"Back River",6671.03,"2025,04"
-Maryland,Parkville,6647.53,"2025,08"
-Maryland,Annapolis,6614.59,"2025,10"
-Maryland,Howard,6584.80,"2025,03"
-Maryland,"Back River",6421.37,"2025,01"
-Maryland,"Queen Anne's County",6184.72,"2025,01"
-Maryland,Howard,5985.36,"2025,04"
-Maryland,Annapolis,5887.50,"2025,02"
-Maryland,Ridgely,5622.51,"2025,05"
-Maryland,"Back River",5389.12,"2025,11"
-Maryland,Ridgely,5099.79,"2025,02"
-Maryland,"Queen Anne's County",4726.26,"2025,05"
-Maryland,Baltimore,4413.52,"2025,05"
-Maryland,Parkville,3723.28,"2025,04"
+State,City,Total_Sales,Month,,,,,
+Maryland,North Harford,238325.74,"2025,12",,,,,
+Maryland,North Harford,237115.14,"2025,10",,,,,
+Maryland,North Harford,225976.77,"2025,09",,,,Month,"2025,10"
+Maryland,North Harford,219445.27,"2025,07",,,,,
+Maryland,North Harford,215089.45,"2025,11",,,,City,Total Sales
+Maryland,North Harford,213510.59,"2025,08",,,,Annapolis,6614.59
+Maryland,North Harford,210401.13,"2025,03",,,,Parkville,11740.57
+Maryland,North Harford,208118.92,"2025,01",,,,Ridgely,12174.9
+Maryland,North Harford,186234.72,"2025,02",,,,Baltimore,13743.99
+Maryland,North Harford,147520.16,"2025,05",,,,Howard,14778.89
+Maryland,North Harford,130274.01,"2025,06",,,,Queen Anne's County,15849.85
+Maryland,North Harford,126652.23,"2025,04",,,,Back River,16537.87
+Maryland,Germantown,31143.89,"2025,10",,,,Germantown,31143.89
+Maryland,Germantown,25924.28,"2025,12",,,,North Harford,237115.14
+Maryland,Germantown,24173,"2025,05",,,,Grand Total,359699.69
+Maryland,Germantown,22817.05,"2025,08",,,,,
+Maryland,Germantown,17734.1,"2025,11",,,,,
+Maryland,Parkville,16615.41,"2025,02",,,,,
+Maryland,Back River,16537.87,"2025,10",,,,,
+Maryland,Queen Anne's County,15849.85,"2025,10",,,,,
+Maryland,Germantown,15607.2,"2025,04",,,,,
+Maryland,Germantown,15509.19,"2025,09",,,,,
+Maryland,Queen Anne's County,15206.03,"2025,04",,,,,
+Maryland,Howard,14778.89,"2025,10",,,,,
+Maryland,Germantown,14521.05,"2025,06",,,,,
+Maryland,Baltimore,14409.16,"2025,07",,,,,
+Maryland,Germantown,14380.37,"2025,07",,,,,
+Maryland,Germantown,14310.72,"2025,01",,,,,
+Maryland,Ridgely,14090.13,"2025,03",,,,,
+Maryland,Parkville,13895.36,"2025,05",,,,,
+Maryland,Baltimore,13743.99,"2025,10",,,,,
+Maryland,Annapolis,13719.11,"2025,11",,,,,
+Maryland,Back River,13435.1,"2025,08",,,,,
+Maryland,Annapolis,13379.82,"2025,08",,,,,
+Maryland,Parkville,13352.13,"2025,12",,,,,
+Maryland,Back River,13144.34,"2025,06",,,,,
+Maryland,Parkville,12797.72,"2025,11",,,,,
+Maryland,Ridgely,12701.86,"2025,07",,,,,
+Maryland,Annapolis,12659.14,"2025,04",,,,,
+Maryland,Baltimore,12651.15,"2025,03",,,,,
+Maryland,Ridgely,12174.9,"2025,10",,,,,
+Maryland,Ridgely,12134.3,"2025,06",,,,,
+Maryland,Howard,12002.07,"2025,07",,,,,
+Maryland,Baltimore,11775.17,"2025,04",,,,,
+Maryland,Ridgely,11767.46,"2025,08",,,,,
+Maryland,Parkville,11740.57,"2025,10",,,,,
+Maryland,Baltimore,11553.58,"2025,11",,,,,
+Maryland,Ridgely,11507.25,"2025,11",,,,,
+Maryland,Germantown,11456.35,"2025,03",,,,,
+Maryland,Howard,11362.64,"2025,12",,,,,
+Maryland,Back River,11077.38,"2025,03",,,,,
+Maryland,Baltimore,10921.93,"2025,08",,,,,
+Maryland,Queen Anne's County,10910.78,"2025,03",,,,,
+Maryland,Back River,10736.55,"2025,02",,,,,
+Maryland,Queen Anne's County,10604.46,"2025,06",,,,,
+Maryland,Howard,10578.52,"2025,09",,,,,
+Maryland,Back River,10376.86,"2025,09",,,,,
+Maryland,Annapolis,10349.72,"2025,07",,,,,
+Maryland,Howard,10222.34,"2025,01",,,,,
+Maryland,Queen Anne's County,10183.72,"2025,08",,,,,
+Maryland,Annapolis,10175.96,"2025,06",,,,,
+Maryland,Baltimore,10113.27,"2025,09",,,,,
+Maryland,Back River,10074.12,"2025,07",,,,,
+Maryland,Howard,9807.09,"2025,02",,,,,
+Maryland,Germantown,9728.68,"2025,02",,,,,
+Maryland,Parkville,9707.05,"2025,06",,,,,
+Maryland,Queen Anne's County,9661.66,"2025,02",,,,,
+Maryland,Annapolis,9658.41,"2025,01",,,,,
+Maryland,Baltimore,9655.08,"2025,12",,,,,
+Maryland,Howard,9285.94,"2025,08",,,,,
+Maryland,Howard,9065.87,"2025,11",,,,,
+Maryland,Parkville,9040.06,"2025,07",,,,,
+Maryland,Howard,9037.51,"2025,05",,,,,
+Maryland,Queen Anne's County,9034.47,"2025,12",,,,,
+Maryland,Baltimore,8980.34,"2025,06",,,,,
+Maryland,Parkville,8847.08,"2025,09",,,,,
+Maryland,Annapolis,8814.77,"2025,05",,,,,
+Maryland,Ridgely,8703.19,"2025,04",,,,,
+Maryland,Baltimore,8547.48,"2025,02",,,,,
+Maryland,Ridgely,8430.38,"2025,12",,,,,
+Maryland,Annapolis,8284.81,"2025,03",,,,,
+Maryland,Parkville,8266.31,"2025,03",,,,,
+Maryland,Baltimore,8262.18,"2025,01",,,,,
+Maryland,Annapolis,8257.17,"2025,12",,,,,
+Maryland,Queen Anne's County,7924.53,"2025,07",,,,,
+Maryland,Annapolis,7795.03,"2025,09",,,,,
+Maryland,Back River,7788.1,"2025,12",,,,,
+Maryland,Ridgely,7745.5,"2025,09",,,,,
+Maryland,Back River,7571.58,"2025,05",,,,,
+Maryland,Howard,7442.06,"2025,06",,,,,
+Maryland,Queen Anne's County,7362.57,"2025,09",,,,,
+Maryland,Parkville,7348.13,"2025,01",,,,,
+Maryland,Ridgely,7347.95,"2025,01",,,,,
+Maryland,Queen Anne's County,7338.3,"2025,11",,,,,
+Maryland,Back River,6671.03,"2025,04",,,,,
+Maryland,Parkville,6647.53,"2025,08",,,,,
+Maryland,Annapolis,6614.59,"2025,10",,,,,
+Maryland,Howard,6584.8,"2025,03",,,,,
+Maryland,Back River,6421.37,"2025,01",,,,,
+Maryland,Queen Anne's County,6184.72,"2025,01",,,,,
+Maryland,Howard,5985.36,"2025,04",,,,,
+Maryland,Annapolis,5887.5,"2025,02",,,,,
+Maryland,Ridgely,5622.51,"2025,05",,,,,
+Maryland,Back River,5389.12,"2025,11",,,,,
+Maryland,Ridgely,5099.79,"2025,02",,,,,
+Maryland,Queen Anne's County,4726.26,"2025,05",,,,,
+Maryland,Baltimore,4413.52,"2025,05",,,,,
+Maryland,Parkville,3723.28,"2025,04",,,,,
